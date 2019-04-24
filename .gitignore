@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+dist
+package-lock.json
+SmartCityBot1-src/.vs
+SmartCityBot1-src/appsettings.json

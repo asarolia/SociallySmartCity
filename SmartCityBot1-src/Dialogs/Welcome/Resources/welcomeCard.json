@@ -1,0 +1,29 @@
+{
+	"$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+	"type": "AdaptiveCard",
+	"version": "1.0",
+	"body": [
+			{
+				"type": "Image",
+				"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtB3AwMUeNoq4gUBGe6Ocj8kyh3bXa9ZbV7u1fVKQoyKFHdkqU",
+				"size": "Medium"
+			},
+		{
+			"type": "TextBlock",
+			"spacing": "medium",
+			"size": "default",
+			"weight": "bolder",
+			"text": "Welcome to SmartCity collaboration bot service!",
+			"wrap": true,
+			"maxLines": 0
+		},
+		{
+			"type": "TextBlock",
+			"size": "default",
+			"isSubtle": "yes",
+			"text": "I can help you with engaging relevant authorities for highlighting any issue or complaint. What would you like to report today?",
+			"wrap": true,
+			"maxLines": 0
+		}
+	]
+}

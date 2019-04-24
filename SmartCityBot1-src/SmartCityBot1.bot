@@ -1,0 +1,50 @@
+{
+  "name": "SmartCityBot1",
+  "padlock": "+0vyj24FEvJF6JMmwHa1Nw==!PVAvkur0k5F7ZqHu7vQwWOKYErXGy+WkSz4XrKO+SzZY0wjpK5rhw23XUsX6qpja",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "69a4d315-710d-4abf-9d33-f7b2d8490511",
+      "subscriptionId": "f830c211-639e-4083-acd0-b491daeca141",
+      "resourceGroup": "SmartCityBot1",
+      "serviceName": "SmartCityBot1",
+      "type": "abs",
+      "name": "SmartCityBot1",
+      "id": "1"
+    },
+    {
+      "connectionString": "//HAYo1e1O8UJmUuxJi+cg==!bo6ZJlHy7wWEsVRT3QWlUDuyI3fkT0xURUCGsXwNUh51fFvlpbVe929vVNdQgpHc+TKiQ4hl64s/vrIC29sAFJFsP+11swYL50WhoOej2HbB1f9ARf2QNGdNLHZ6aETNjjVBeVv5hLKMcU/Om9WMjcwVo9hhid1EyA17bpZWlgdhxAu2UsIitew4eHBEKwtuK0HtAPQ5RMmZvcZa8nolMJxn9saZBX2rVzFxHlpHGXE=",
+      "tenantId": "69a4d315-710d-4abf-9d33-f7b2d8490511",
+      "subscriptionId": "f830c211-639e-4083-acd0-b491daeca141",
+      "resourceGroup": "SmartCityBot1",
+      "serviceName": "smartcitybot1aed5",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "d571df4f-96ba-4a0d-be1b-2ee3ad075c42",
+      "appPassword": "8F8Al1bfPKxX516kY7fAPg==!zsYGS5hD+je54uu9fip1zdPnD2DMdn3jQPe7uWHahFU=",
+      "endpoint": "https://smartcitybot1.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "f4a4cb37-f603-4f2c-b193-368eed4a497c",
+      "authoringKey": "ulyOnk7WRsy0nn9gVW8Q2Q==!2o2lDsRM5Vz80ULv9hv0s0StuAg3xazK5MTQ+bhKs2P8o2gNTmEpA3w2WY/2NUOu",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
