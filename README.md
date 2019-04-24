@@ -48,7 +48,7 @@ Mobile Views
 
 ![bot](./images/botview1_mob.png)
 
-![graph](./images/graphview.png)
+![graph](./images/graphview_mob.png)
 
 
 
