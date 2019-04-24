@@ -28,12 +28,28 @@ Developed for Barco Geekathon
 
 User View
 
-![user](./images/userpage.PNG)
+![user](./images/main.PNG)
+
 
 
 City View
 
-![city](./images/city.PNG)
+![city](./images/maincity.PNG)
+
+
+Bot Service
+
+![bot](./images/botview1.PNG)
+
+
+Mobile Views
+
+![user](./images/main_mob.PNG)
+
+![bot](./images/botview1_mob.PNG)
+
+![graph](./images/graphview_mob.PNG)
+
 
 
 
